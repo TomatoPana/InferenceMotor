@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenceMotor", "InferenceMotor\InferenceMotor.csproj", "{3D5C85FC-8BA4-4C12-8B09-1BD89A42B7D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D5C85FC-8BA4-4C12-8B09-1BD89A42B7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5C85FC-8BA4-4C12-8B09-1BD89A42B7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5C85FC-8BA4-4C12-8B09-1BD89A42B7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5C85FC-8BA4-4C12-8B09-1BD89A42B7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143118B0-0C6B-481D-A1AA-0C5A42F129C2}
+	EndGlobalSection
+EndGlobal

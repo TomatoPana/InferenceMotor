@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\bin\Debug\net6.0-windows\InferenceMotor.exe
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\bin\Debug\net6.0-windows\InferenceMotor.deps.json
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\bin\Debug\net6.0-windows\InferenceMotor.runtimeconfig.json
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\bin\Debug\net6.0-windows\InferenceMotor.dll
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\bin\Debug\net6.0-windows\InferenceMotor.pdb
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Form1.resources
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.AssemblyInfo.cs
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.dll
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\refint\InferenceMotor.dll
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.pdb
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.genruntimeconfig.cache
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\ref\InferenceMotor.dll
