@@ -36,3 +36,7 @@ C:\Users\HP\Downloads\InferenceMotor-main\InferenceMotor\obj\Debug\net6.0-window
 C:\Users\HP\Downloads\InferenceMotor-main\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Properties.Resources.resources
 C:\Users\HP\Downloads\InferenceMotor-main\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Form3.resources
 C:\Users\HP\Downloads\InferenceMotor-main\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Form4.resources
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Form2.resources
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Form3.resources
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Form4.resources
+C:\Users\User\source\repos\InferenceMotor\InferenceMotor\obj\Debug\net6.0-windows\InferenceMotor.Properties.Resources.resources

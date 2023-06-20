@@ -40,8 +40,9 @@
             pictureBox1.Dock = DockStyle.Fill;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(0, 0);
+            pictureBox1.Margin = new Padding(2, 2, 2, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(649, 570);
+            pictureBox1.Size = new Size(454, 342);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
@@ -50,33 +51,36 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 11F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(38, 30);
+            label1.Location = new Point(27, 18);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(554, 30);
+            label1.Size = new Size(382, 20);
             label1.TabIndex = 1;
             label1.Text = "Bienvenido a Windows Helps, pulse el boton para iniciar";
-            label1.Click += label1_Click;
             // 
             // button1
             // 
             button1.BackColor = SystemColors.AppWorkspace;
             button1.Font = new Font("Segoe UI Black", 10F, FontStyle.Bold, GraphicsUnit.Point);
             button1.ForeColor = SystemColors.ActiveCaptionText;
-            button1.Location = new Point(245, 364);
+            button1.Location = new Point(172, 218);
+            button1.Margin = new Padding(2, 2, 2, 2);
             button1.Name = "button1";
-            button1.Size = new Size(112, 34);
+            button1.Size = new Size(86, 28);
             button1.TabIndex = 2;
             button1.Text = "INICIAR";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += Button1_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(649, 570);
+            ClientSize = new Size(454, 342);
             Controls.Add(button1);
             Controls.Add(label1);
             Controls.Add(pictureBox1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();

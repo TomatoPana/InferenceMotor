@@ -55,7 +55,6 @@
             label1.Size = new Size(346, 28);
             label1.TabIndex = 1;
             label1.Text = "Ingrese el problema que se le presenta";
-            label1.Click += label1_Click;
             // 
             // textBox1
             // 

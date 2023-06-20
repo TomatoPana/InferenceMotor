@@ -5,16 +5,13 @@ namespace InferenceMotor
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            new Form2().Show();
         }
     }
 }

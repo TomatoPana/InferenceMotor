@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Documents\\InferenceMotor\\InferenceMotor.csproj": {}
+    "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\InferenceMotor.csproj": {}
   },
   "projects": {
-    "Z:\\Documents\\InferenceMotor\\InferenceMotor.csproj": {
+    "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\InferenceMotor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Documents\\InferenceMotor\\InferenceMotor.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\InferenceMotor.csproj",
         "projectName": "InferenceMotor",
-        "projectPath": "Z:\\Documents\\InferenceMotor\\InferenceMotor.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\InferenceMotor.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "Z:\\Documents\\InferenceMotor\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
