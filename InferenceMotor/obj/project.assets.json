@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\InferenceMotor.csproj",
+      "projectUniqueName": "Z:\\Documents\\InferenceMotor\\InferenceMotor.csproj",
       "projectName": "InferenceMotor",
-      "projectPath": "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\InferenceMotor.csproj",
+      "projectPath": "Z:\\Documents\\InferenceMotor\\InferenceMotor.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\InferenceMotor\\InferenceMotor\\obj\\",
+      "outputPath": "Z:\\Documents\\InferenceMotor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
